@@ -50,7 +50,7 @@ namespace Sample_Three_Tire
 
 
 
-                    //StringWriter stringWrite = new System.IO.StringWriter();
+                    //StringWriter stringWrite = new System.IO.StringWriter();  test for commit one 
                     //HtmlTextWriter htmlWrite = new HtmlTextWriter(stringWrite);
                     //string content;
 
